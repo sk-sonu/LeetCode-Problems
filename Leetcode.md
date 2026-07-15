@@ -1,6 +1,15 @@
-# LeetCode Problems
+# Java DSA Journey 🚀
 
-My solutions to LeetCode problems in Java.
+Solved Problems : 37
 
-Topics:
-1. Two Pointer
+Language : Java
+
+Platform : LeetCode
+
+Current Goal : 500 Problems
+
+Topics Covered
+
+✅ Array
+
+✅ String
